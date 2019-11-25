@@ -60,3 +60,9 @@ host vm
 	user deep
 	identityfile ~/.ssh/deep
 ```
+
+# GCS Fuse
+Follow install instructions here
+https://github.com/GoogleCloudPlatform/gcsfuse/blob/master/docs/installing.md
+and here
+https://cloud.google.com/storage/docs/gcs-fuse
